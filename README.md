@@ -6,9 +6,9 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/CesarBrunox?label=Followers&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" />
+   <img src="https://komarev.com/ghpvc/?username=CesarBrunox&color=blue" />
 </p>
 
 ---
@@ -65,8 +65,8 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CesarBrunox&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarBrunox&layout=compact&theme=tokyonight" />
 </p>
 
 ---
