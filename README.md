@@ -15,7 +15,7 @@ QA Automation Engineer • SDET • Building reliable systems with AI
    <img src="https://komarev.com/ghpvc/?username=CesarBrunox&color=blue" />
 </p>
 
----
+
 
 ## ⚡ About Me
 
@@ -24,7 +24,7 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 - Building **AI-powered testing workflows and CI/CD pipelines**
 - Strong believer that **good QA should be invisible**
 
----
+
 
 ## 🧠 Current Focus
 
@@ -33,7 +33,7 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 - 🧪 End-to-end test architecture with Playwright/Cypress
 - 📊 Monitoring and preventing production issues
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -65,7 +65,7 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
+
 
 ## 🚀 What I'm Building
 
@@ -74,7 +74,7 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 - Tools to **reduce bugs before production**
 - Experiments with **autonomous dev agents**
 
----
+
 
 ## 🌎 Open to
 
@@ -82,7 +82,7 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 - QA Automation / SDET roles
 - AI + Testing collaborations
 
----
+
 
 ## 📫 Let's connect
 
