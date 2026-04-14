@@ -5,7 +5,7 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 </p>
 
 <p align="center">
-  <img src="(https://drive.google.com/file/d/1OK0zsyFyus1W1FFi6YWBox-_k0cBU6Ej/view?usp=drive_link)" width="200" style="image-rendering: pixelated;" />
+  <img src="6648a444eb211b9ddfbf24097c2ba9e8b0ef64f8ccb33123e715302ddc2af9f1.jpg" width="200" style="image-rendering: pixelated;" />
 </p>
 
 <p align="center">
@@ -60,9 +60,10 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### AI & Automation
-![AI](https://img.shields.io/badge/-AI%20Testing-8A2BE2?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=for-the-badge)
-![Automation](https://img.shields.io/badge/-Automation-FFB000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude_Code-Anthropic-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
@@ -85,5 +86,14 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 
 ## 📫 Let's connect
 
-- LinkedIn: https://www.linkedin.com/in/cesar-bruno-ab7199b7
-- Email: cesaroliveirabruno@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/cesar-bruno-ab7199b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Cesar%20Bruno-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="mailto:cesaroliveirabruno@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cesaroliveirabruno%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
