@@ -5,7 +5,11 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <img src="(https://drive.google.com/file/d/1OK0zsyFyus1W1FFi6YWBox-_k0cBU6Ej/view?usp=drive_link)" width="200" style="image-rendering: pixelated;" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/CesarBrunox">
     <img src="https://img.shields.io/github/followers/CesarBrunox?label=Followers&style=social" />
   </a>
    <img src="https://komarev.com/ghpvc/?username=CesarBrunox&color=blue" />
@@ -62,15 +66,6 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=CesarBrunox&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarBrunox&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 What I'm Building
 
 - Scalable **test automation frameworks**
@@ -90,5 +85,5 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 
 ## 📫 Let's connect
 
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/cesar-bruno-ab7199b7/)
+- LinkedIn: https://www.linkedin.com/in/cesar-bruno-ab7199b7
 - Email: cesaroliveirabruno@gmail.com
