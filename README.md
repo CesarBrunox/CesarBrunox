@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cesar Bruno!</h1>
 
 <p align="center">
-QA Automation Engineer • SDET • Building reliable systems with AI
+QA Automation Engineer • SDET • Test Architect
 </p>
 
 <p align="center">
@@ -22,7 +22,6 @@ QA Automation Engineer • SDET • Building reliable systems with AI
 - QA/SDET focused on **automation, scalability, and reliability**
 - Experience with **international teams and production systems**
 - Building **AI-powered testing workflows and CI/CD pipelines**
-- Strong believer that **good QA should be invisible**
 
 
 
